@@ -3,10 +3,10 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-webview</artifactId>
   <versioning>
-    <release>7.4.1-jitsi-6163789</release>
+    <release>7.4.1-jitsi-6163956</release>
     <versions>
-      <version>7.4.1-jitsi-6163789</version>
+      <version>7.4.1-jitsi-6163956</version>
     </versions>
-    <lastUpdated>20201214084056</lastUpdated>
+    <lastUpdated>20201214090838</lastUpdated>
   </versioning>
 </metadata>
